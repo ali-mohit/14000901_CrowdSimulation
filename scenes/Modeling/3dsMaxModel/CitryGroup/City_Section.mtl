@@ -1,0 +1,150 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.11.2021 12:08:09
+
+newmtl 06___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building03_c.tga
+	map_Kd C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building03_c.tga
+
+newmtl Building_dnt
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\Building_V02_C.png
+	map_Kd C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\Building_V02_C.png
+
+newmtl building_16
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building_016_c.tga
+	map_Kd C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building_016_c.tga
+
+newmtl building_025
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building_025_c.tga
+	map_Kd C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building_025_c.tga
+
+newmtl 20___Defaulta
+	Ns 29.999998
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.270588 0.270588 0.270588
+	Kd 0.270588 0.270588 0.270588
+	Ks 0.144000 0.144000 0.144000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl 20___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.309804 0.454902 0.058824
+	Kd 0.309804 0.454902 0.058824
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl orig_orig_orig_17___Default
+	Ns 100.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building 01_c.tga
+	map_Kd C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building 01_c.tga
+
+newmtl 3db___building_06
+	Ns 44.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.324000 0.324000 0.324000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building 06_ c.tga
+	map_Kd C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building 06_ c.tga
+
+newmtl 09___Default
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building05 _c.tga
+	map_Kd C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\building05 _c.tga
+
+newmtl Material__0
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\Building_V01_C.png
+	map_Kd C:\Users\Mohit_Asus\Downloads\9btvoxf8n0cg-3dt\textures\Building_V01_C.png
+
+newmtl 21___Default
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
