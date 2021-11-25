@@ -1,0 +1,13 @@
+{
+"layoutFileVersion": 1, 
+"licenseHashKey": 3641663836, 
+"rootTransformId": 0, 
+"parameters": [
+	{"name": "defaultGroundAdaptationMode", "flags": 0, "frames": [], "type": 3, "values": [[1]]}
+],
+"nodes": [
+],
+"groups": [
+],
+"connections": []
+}
